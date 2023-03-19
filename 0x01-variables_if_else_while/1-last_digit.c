@@ -3,9 +3,8 @@
 #include <stdio.h>
 /**
  * main - this will assign a random number to the  variable n
- * Return : 0
+ * Return : 0  success
  */
-
 int main(void)
 {
 	int n, lastd;
