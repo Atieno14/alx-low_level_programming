@@ -1,13 +1,10 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * written by sharon
-	 * Return: 0
+	 * main- this program  prints _putchar
+	 * Return:0 (success)
 	 */
 
-
-	void _putchar();
-	
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -20,3 +17,5 @@
 	_putchar('\n');
 	return (0);
 }
+
+
